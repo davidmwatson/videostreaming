@@ -27,3 +27,6 @@ It should be relatively easy to write other backends by sub-classing the base vi
 [2] Peirce JW (2009) Generating stimuli for neuroscience using PsychoPy. Front. Neuroinform. 2:10. doi:10.3389/neuro.11.010.2008
 
 [3] Cutone, M. D. & Wilcox, L. M. (2018). PsychXR (Version 0.1.4) [Software]. Available from https://github.com/mdcutone/psychxr
+
+## Acknowledgements
+This work was funded by a Leverhulme Trust grant (RPG-2016-077) as part of a wider project researching the timescales of multi-sensory recalibration.
